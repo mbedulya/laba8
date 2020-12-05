@@ -28,7 +28,7 @@ th:last-child {
 }
 td {
     padding: 10px 20px;
-    background: #65c2f8;
+    background: #FFD700;
 }
 tr:last-child td:first-child {
     border-radius: 0 0 0 10px;
